@@ -1,0 +1,11 @@
+/home/smallcoffee/near-tests/base2/integration-tests/target/debug/deps/socket2-885d8dee264894b2.rmeta: /home/smallcoffee/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.9/src/lib.rs /home/smallcoffee/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.9/src/sockaddr.rs /home/smallcoffee/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.9/src/socket.rs /home/smallcoffee/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.9/src/sockref.rs /home/smallcoffee/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.9/src/sys/unix.rs
+
+/home/smallcoffee/near-tests/base2/integration-tests/target/debug/deps/libsocket2-885d8dee264894b2.rlib: /home/smallcoffee/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.9/src/lib.rs /home/smallcoffee/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.9/src/sockaddr.rs /home/smallcoffee/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.9/src/socket.rs /home/smallcoffee/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.9/src/sockref.rs /home/smallcoffee/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.9/src/sys/unix.rs
+
+/home/smallcoffee/near-tests/base2/integration-tests/target/debug/deps/socket2-885d8dee264894b2.d: /home/smallcoffee/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.9/src/lib.rs /home/smallcoffee/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.9/src/sockaddr.rs /home/smallcoffee/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.9/src/socket.rs /home/smallcoffee/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.9/src/sockref.rs /home/smallcoffee/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.9/src/sys/unix.rs
+
+/home/smallcoffee/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.9/src/lib.rs:
+/home/smallcoffee/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.9/src/sockaddr.rs:
+/home/smallcoffee/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.9/src/socket.rs:
+/home/smallcoffee/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.9/src/sockref.rs:
+/home/smallcoffee/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.9/src/sys/unix.rs:
