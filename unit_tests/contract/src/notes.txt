@@ -1,0 +1,52 @@
+I am unsure of the viewing policy of smart contracts
+Can I try accessing some on the NEAR blockchain first?
+Look at how much of it gets exposed in the blockchain
+I mean 4.19 mB is not a lot
+so you can could do a mix of decentralization or partial when avaliable
+
+So the data has to be immutable meaning 
+to has to be initialized at start
+
+checks how the data sample is created
+if it is a string 
+
+Who recieves this data?
+Like in what method?
+if sends to email than we can't control how its used
+env::predecss
+
+contract keeps a list of contacts
+for those who have access to it
+you can ask the contract for the data
+
+meaning we shard the data across multiple contracts
+
+Else we have a 
+centralized database at the end
+Or the user sends the data to he user
+through the server
+So we only hold that data
+
+so when you login in to d-mart with your near wallet
+it will automatically provide the contracts which are avaliable
+and it will tell you its pending
+if nothing pulled from the marketplace and contract
+determined as a faulty contract
+
+Storage costs come in two forms
+The client sends data to the smart contract
+And the holding fee for the smart contract's data
+You have to provide a limit send restriction for accounts
+And a max in the system per day
+
+// You have to validate addresses
+// env::is_valid_account_id
+
+There must be a way to to ensure that dataset is immutable
+I think you would need a special blockchain for that
+Is this why ocean coin is soo good
+
+Maybe consider an update log?? How so?
+
+// it is natural for fortune to flucuate.
+// Every crisis is a turning point. A problem is easier to resolve when you know where the problem lies.

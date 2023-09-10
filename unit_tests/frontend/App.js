@@ -5,10 +5,8 @@ import './assets/global.css';
 
 import { EducationalText, SignInPrompt, SignOutButton } from './ui-components';
 
-
 export default function App({ isSignedIn, contractId, wallet }) {
   const [valueFromBlockchain, setValueFromBlockchain] = React.useState();
-
   const [uiPleaseWait, setUiPleaseWait] = React.useState(true);
 
   // Get blockchian state once on component load
